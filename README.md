@@ -1,2 +1,2 @@
 # Project---Data-Quest
-All guided projects from DataQuest
+Here are the guided projects from DataQuest, Path of Data science in Python
